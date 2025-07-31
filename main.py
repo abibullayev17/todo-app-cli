@@ -1,9 +1,6 @@
 from datetime import datetime
 
 def check_task_id(task_id):
-    if len(task_id) < 1:
-        print("Task id cannot be empty.")
-        return False
     try:
         task_id = int(task_id)
         return True
