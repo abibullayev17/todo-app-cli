@@ -1,7 +1,7 @@
 # 📝 todo-app-cli
 
 A minimal command-line todo app written in Python using object-oriented programming.  
-Simple, clean and file-free — all tasks exist in memory during runtime.
+Simple, clean, and now persistent — tasks are saved to and loaded from a JSON file (`tasks.json`).
 
 ---
 
