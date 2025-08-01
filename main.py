@@ -37,6 +37,7 @@ def main():
             if check_task_id(task_id):
                 todo.remove_task(int(task_id))
         elif choice == "5":
+            todo.save_tasks()
             break
         else:
             print("Invalid input.")
