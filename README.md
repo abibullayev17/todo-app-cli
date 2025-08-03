@@ -19,7 +19,7 @@ Simple, clean, and now persistent — tasks are saved to and loaded from a JSON 
 
 - Python 3.7+
 
-No external libraries required — only the Python standard library (`datetime`).
+No external libraries required — only the Python standard libraries (`datetime and json`).
 
 ---
 
